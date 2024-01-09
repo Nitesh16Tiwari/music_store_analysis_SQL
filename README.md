@@ -9,4 +9,4 @@ This project will tell how to analyze the music playlist database. You can exami
 * SQL
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]("file:///D:/SQL/music-store/schema.png")
+![MusicDatabaseSchema]("https://raw.githubusercontent.com/username/repository/branch/file:///D:/SQL/music-store/schema.png")
